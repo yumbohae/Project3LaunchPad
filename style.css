@@ -1,0 +1,39 @@
+
+  
+  h1 {
+    text-align: center;
+    font-size:48px;
+    padding-top: 5%;
+    color:rgb(230, 221, 197);
+    
+    }
+    
+    h3 {
+      text-align: center;
+      font-size:15px;
+      color:rgb(230, 221, 197);
+      
+      }
+    
+      h2 {
+        text-align: center;
+        font-size:40px;
+        color:rgb(230, 221, 197);
+        }
+      
+      
+    button{
+      
+      width:10%;
+      margin-left:45%;
+      margin-right:25%;
+      height: 10%;
+      font-size: 150%;
+      background-color: rgb(230, 221, 197);
+      border-radius: 10px;
+    
+  }
+
+  #song{
+    visibility: hidden;
+}
